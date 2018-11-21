@@ -9,3 +9,5 @@ logr = Sequential()
 logr.add(Dense(1, input_dim=2, activation= ' sigmoid ' ))
 #модель собственно компилируется с заданной целевой функцией и метрикой точности
 logr.compile(loss= ' binary_crossentropy ' , optimizer= ' sgd ' , metrics=[ ' accuracy ' ])
+
+#rwerw
