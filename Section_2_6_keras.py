@@ -1,3 +1,6 @@
+""" Часть I. Глава 2. Раздел 2.6. Линейная регрессия"""
+
+
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Input, Dense, Activation

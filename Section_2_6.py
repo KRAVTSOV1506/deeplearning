@@ -1,3 +1,6 @@
+""" Часть I. Глава 2. Раздел 2.6. Линейная регрессия"""
+
+
 import numpy as np, tensorflow as tf
 
 n_samples, batch_size, num_steps = 1000, 100, 20000
